@@ -1,17 +1,17 @@
 export const siteConfig = {
-  name: "AI 知识笔记",
-  description: "探索人工智能的无限可能 —— 从入门到进阶的 AI 知识库",
+  name: "连结科技 | Linking Tech",
+  description: "3 + AI = 30 战斗力 — AI 智能客服 · 金融工具 · 数字员工 · Shopify 独立站解决方案",
   url: "https://ai-knowledge-site.vercel.app",
   author: {
-    name: "Your Name",
-    email: "hello@example.com",
-    twitter: "https://twitter.com/yourhandle",
-    github: "https://github.com/yourhandle",
+    name: "连结科技",
+    email: "hello@linkingtech.com",
+    twitter: "https://twitter.com/linkingtech",
+    github: "https://github.com/Nick-Horse",
   },
   nav: [
     { title: "首页", href: "/" },
     { title: "博客", href: "/blog" },
-    { title: "作品", href: "/projects" },
+    { title: "产品", href: "/projects" },
     { title: "关于", href: "/about" },
   ],
 };
